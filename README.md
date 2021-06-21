@@ -6,8 +6,9 @@ my aerospace engineering course
 3.  Edison CFD를 이용해서 유동내의 항공기 양력과 항력을 구하고 표면에서의 변화 관찰(Term #1)  
 4.  MATLAB을 이용한 항공기 패널매소드 연산수행(Term #2)  
 ---
-### 추진기관  
-목표: 가스터빈설계  
+### Turbomachinery 추진기관  
+
+* 주제: 가스터빈설계  
 가스터빈의 작동조건 및 설계요구사항을 결정하고, 목표를 달성하기 위한 엔진 설계  
 Cycle 해석을 통해 설계 변수에 대한 Parametric study 실시  
 최종 설계 가스터빈에 대해 각 구성 요소의 입출구 조건 결정 및 T-s 선도작성  
