@@ -1,0 +1,8 @@
+ Total lift coefficient   =  0.466007686057955     
+ Total drag coefficient   =  2.082876634760680E-002
+ Total moment coefficient = -0.114302900055744     
+ 
+ Block000
+ Lift coefficients at (jmin,jmax,imin,imax) edges  = 0.466008, 0.000000, 0.000000, 0.000000
+ Drag coefficients at (jmin,jmax,imin,imax) edges  = 0.020829, 0.000000, 0.000000, 0.000000
+ Moment coefficients at (jmin,jmax,imin,imax) edges=-0.114303, 0.000000, 0.000000, 0.000000

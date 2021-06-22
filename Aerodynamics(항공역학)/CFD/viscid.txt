@@ -1,0 +1,19 @@
+AOA 0
+Total lift coefficient   = -1.857304775705533E-005
+ Total drag coefficient   = -1.348088355952578E-002
+ Total moment coefficient =  9.473561898603922E-006
+
+AOA 4
+Total lift coefficient   =  0.771028311735054     
+ Total drag coefficient   = -1.872310260579837E-002
+ Total moment coefficient = -0.225227229995508     
+
+AOA 6
+Total lift coefficient   =   1.17261312548673     
+ Total drag coefficient   = -2.374288451016553E-002
+ Total moment coefficient = -0.328879046684093     
+
+AOA 8
+ Total lift coefficient   =   1.67110855154936     
+ Total drag coefficient   = -2.958337157551927E-002
+ Total moment coefficient = -0.450109035034949     
