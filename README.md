@@ -13,3 +13,4 @@ my aerospace engineering course
 Cycle 해석을 통해 설계 변수에 대한 Parametric study 실시  
 최종 설계 가스터빈에 대해 각 구성 요소의 입출구 조건 결정 및 T-s 선도작성  
 ---
+### AEROSPACE&IT LABORATORY 항공IT종합설계
