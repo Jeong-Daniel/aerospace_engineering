@@ -1,4 +1,4 @@
-my aerospace engineering course
+My Aerospace Engineering lecture
 ---
 ### Aerodynamics 항공역학  
 1.  압력 및 전단 응력 데이터에서 공기역학적 힘을 계산 수행(HW #3)    
