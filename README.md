@@ -1,4 +1,4 @@
-My Aerospace Engineering lecture
+항공우주공학 수업 내용을 정리
 ---
 ### Aerodynamics 항공역학  
 1.  압력 및 전단 응력 데이터에서 공기역학적 힘을 계산 수행(HW #3)    
@@ -7,7 +7,6 @@ My Aerospace Engineering lecture
 4.  MATLAB을 이용한 항공기 패널매소드 연산수행(Term #2)  
 ---
 ### Turbomachinery 추진기관  
-
 * 주제: 가스터빈설계  
 가스터빈의 작동조건 및 설계요구사항을 결정하고, 목표를 달성하기 위한 엔진 설계  
 Cycle 해석을 통해 설계 변수에 대한 Parametric study 실시  
