@@ -27,3 +27,8 @@ Cycle 해석을 통해 설계 변수에 대한 Parametric study 실시
 ---
 ### Technicla Writing & Presentation 공학작문 및 발표
 * 공학도에게 필요한 작문법과 발표
+---
+### ENGINEERING MATHEMATICS II 공업수학 II  
+* 선형대수학, 벡터, 기하학
+항공우주공학을 다루는데 필요한 용어와 선형대수지식을 학습니다.  
+여기에 더해서 가우스조르단소거법으로 연립방정식을 풀이할때 액셀 VBA를 사용한 매크로로 프로그래밍을 합니다.
